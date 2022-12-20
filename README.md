@@ -1,2 +1,2 @@
 # stock-analysis
-Stock analysis repository opened
+Stock analysis repository
